@@ -1,2 +1,3 @@
-# bakgrunnar
-For AndroidTV
+# Bakgrunnar for Android TV (Sony)
+
+Copyright Jo Bjørnar Hausnes
